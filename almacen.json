@@ -1,0 +1,120 @@
+{
+  "usuarios": [
+    {
+      "username": "usuario1",
+      "email": "pedrito123@gmail.com",
+      "password": "pedro123",
+      "isactive": true,
+      "id": "b6e5",
+      "perfil": {
+        "nombre": "Carlos",
+        "comuna": "Puente Alto",
+        "telefono": 912312211,
+        "imagen": "data:image/jpeg;base64",
+        "notificacionesAsistencia": [
+          {
+            "evento": "Sin eventos recientes",
+            "fecha": "",
+            "asistido": false
+          }
+        ]
+      }
+    },
+    {
+      "username": "usuario2",
+      "email": "jorge123@gmail.com",
+      "password": "jorge123",
+      "isactive": true,
+      "id": "6a8d",
+      "perfil": {
+        "nombre": "Jorge",
+        "comuna": "Puente Alto",
+        "telefono": 9213123121,
+        "imagen": "https://tntsports.cl/__export/1724866622567/sites/cdfchile/img/2024/08/28/carlos_palacios_colo_colo_campeonato_primera_2024_x3x_crop1724866469265.jpg_124360297.jpg",
+        "notificacionesAsistencia": [
+          {
+            "evento": "Reforzamiento Base de datos",
+            "fecha": "2024-09-25",
+            "asistido": false
+          }
+        ]
+      }
+    }
+  ],
+  "eventos": [
+    {
+      "imagen": "https://softland.com.mx/wp-content/uploads/2021/07/Post-Articulos-Softland-12.png",
+      "nombre": "Reforzamiento Base de datos",
+      "fecha": "2024-11-25",
+      "lugar": "Sala 211",
+      "descripcion": "Te invitamos a una clase extra para prepararte para tu próxima prueba! 😀",
+      "id": "03c5",
+      "comentarios": [
+        {
+          "usuario": "Juanito",
+          "texto": "Bueno el reforzamiento🔥👍"
+        }
+      ],
+      "inscritos": [
+        {
+          "nombre": "Pedro"
+        },
+        {
+          "nombre": "Diego"
+        },
+        {
+          "nombre": "Luis"
+        },
+        {
+          "nombre": "Jorge"
+        }
+      ]
+    },
+    {
+      "imagen": "https://img.freepik.com/fotos-premium/hombre-sentado-escritorio-dos-monitores-taza-cafe_1316799-23567.jpg",
+      "nombre": "Campeonato de videojuegos 🎮 🏆",
+      "fecha": "26/10/2024",
+      "lugar": "Sede Duoc Maipu",
+      "descripcion": "Te invitamos a participar de múltiples competencias de videojuegos",
+      "id": "5d69",
+      "comentarios": [
+        {
+          "usuario": "Pedro",
+          "texto": "Preparándome para el campeonato 🎮🏆"
+        }
+      ],
+      "inscritos": [
+        {
+          "nombre": "Pedro"
+        },
+        {
+          "nombre": "Alejandro"
+        },
+        {
+          "nombre": "Gonzalo"
+        },
+        {
+          "nombre": "Vicente"
+        },
+        {
+          "nombre": "Carlos"
+        }
+      ]
+    }
+  ],
+  "usuarioAdmin": [
+    {
+      "username": "mauricio321",
+      "email": "mauricio23@gmail.com",
+      "password": "mauricio321",
+      "isactive": true,
+      "id": "d7f9",
+      "perfil": {
+        "nombre": "Mauricio",
+        "comuna": "Maipu",
+        "telefono": 9213123121,
+        "imagen": "https://tntsports.cl/__export/1724866622567/sites/cdfchile/img/2024/08/28/carlos_palacios_colo_colo_campeonato_primera_2024_x3x_crop1724866469265.jpg_124360297.jpg"
+      }
+    }
+  ]
+}
